@@ -1,2 +1,2 @@
-# PraticandoGit
-exercicios de git hub
+# PraticandoSQL
+exercicios de SQL server
